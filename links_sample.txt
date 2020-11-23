@@ -1,0 +1,30 @@
+REB > http://www.reb.gov.bd/ > http://www.reb.gov.bd/misc/favicon.ico;BMDA > http://www.bmda.gov.bd/ > ;BPDB > https://www.bpdb.gov.bd/ > ;EED Naogaon > http://eed.naogaon.gov.bd/ > ;EED Joypurhat > http://eed.joypurhat.gov.bd/ > eed.joypurhat.gov.bd/themes/responsive_npf/img/logo.png;NESCO > http://nesco.gov.bd/ > ;Relief > https://modmr.gov.bd/ > ;Railway > http://www.railway.gov.bd/ > ;RAJUK > http://www.rajukdhaka.gov.bd/rajuk/webHome > ;BCSIR > http://www.bcsir.gov.bd/ > ;PGCB > http://pgcb.gov.bd/ > ;PWD > http://www.pwd.gov.bd/ > ;LGED Joypurhat > http://lged.joypurhat.gov.bd/ > ;LGED Bogura > http://lged.bogra.gov.bd/ > 
+-reb
+-bmda
+-pdb
+-eed naogaon
+-eed jp
+-nesco
+-relief
+-railway
+-rajuk
+-bcsir
+-pgcb
+-pwd
+lged jp
+lged bogura
+
+REB > http://www.reb.gov.bd/ > http://www.reb.gov.bd/misc/favicon.ico
+BMDA > http://www.bmda.gov.bd/ > 
+BPDB > https://www.bpdb.gov.bd/ > 
+EED Naogaon > http://eed.naogaon.gov.bd/ > 
+EED Joypurhat > http://eed.joypurhat.gov.bd/ > eed.joypurhat.gov.bd/themes/responsive_npf/img/logo.png
+NESCO > http://nesco.gov.bd/ > 
+Relief > https://modmr.gov.bd/ > 
+Railway > http://www.railway.gov.bd/ > 
+RAJUK > http://www.rajukdhaka.gov.bd/rajuk/webHome > 
+BCSIR > http://www.bcsir.gov.bd/ > 
+PGCB > http://pgcb.gov.bd/ > 
+PWD > http://www.pwd.gov.bd/ > 
+LGED Joypurhat > http://lged.joypurhat.gov.bd/ > 
+LGED Bogura > http://lged.bogra.gov.bd/ > 

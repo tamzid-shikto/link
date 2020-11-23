@@ -1,0 +1,5 @@
+<div class='card'>
+<img class='c_logo' src='https://google.com/favicon.ico' />
+<span class='c_title'>Website</span>
+<div class='space'> </div>
+<button class='c_btn'>Go</button>
